@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-![Design preview for the NFT preview card component coding challenge](.images/output.JPG)
+![Design preview for the NFT preview card component coding challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
 
 ## My process
 
